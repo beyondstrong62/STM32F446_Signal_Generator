@@ -1,0 +1,15 @@
+../Src/core_cm4.h:1725:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/main.c:18:6:EXTI15_10_IRQHandler	8	static
+../Src/main.c:30:6:EXTI0_IRQHandler	4	static
+../Src/main.c:48:6:init_button	8	static
+../Src/main.c:63:6:init_frequency_button	8	static
+../Src/main.c:78:6:init_led	4	static
+../Src/main.c:85:6:delay	16	static
+../Src/main.c:90:5:main	16	static
+../Src/main.c:131:6:generate_sine_wave	16	static
+../Src/main.c:142:6:generate_square_wave	16	static
+../Src/main.c:152:6:generate_triangle_wave	4	static
+../Src/main.c:164:6:generate_rising_sawtooth	4	static
+../Src/main.c:174:6:generate_falling_sawtooth	4	static
+../Src/main.c:187:6:generate_rising_ramp	4	static
+../Src/main.c:198:6:generate_falling_ramp	4	static
